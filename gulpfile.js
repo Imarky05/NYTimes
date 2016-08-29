@@ -17,7 +17,7 @@ gulp.task('ugly', function(){
          })) // Call the uglify function on these files
       .pipe(plumber())
       .pipe(rename({ extname: '.min.js' })) //  Rename the uglified file
-      .pipe(gulp.dest('./')) // Where do we put the result?
+      .pipe(gulp.dest('./build')) // Where do we put the result?
 });
 
 // watch .js file then uglify on change
