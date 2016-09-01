@@ -44,7 +44,7 @@ gulp.task('sass', function() {
       .pipe(gulp.dest('./build'))
       .pipe(cssnano())
       .pipe(rename('style.min.css'))
-      .pipe(gulp.dest('./'));
+      .pipe(gulp.dest('./build'));
 });
 
 //watch .scss files then sass on change
