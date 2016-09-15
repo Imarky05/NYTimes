@@ -1,5 +1,7 @@
 # NYTimes
 
+![alt text](./NYTimes-screenshot.png "Instanews")
+
 ###Software:
 	
 
