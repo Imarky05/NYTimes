@@ -1,6 +1,6 @@
 # NYTimes
 
-![alt text](./NYTimes-screenshot.png "Instanews")
+![alt text](./nytimes-screenshot.png "Instanews")
 
 ###Software:
 	
